@@ -1,4 +1,4 @@
-## Interface: 100206
+## Interface: 110207, 120000, 120001
 ## Title: PortGear
 ## Notes: Automatically switches out teleporting gear after use
 ## Version: 6
@@ -7,3 +7,4 @@
 
 gearlist.lua
 pgcore.lua
+
